@@ -1,0 +1,67 @@
+c:\users\wero\documents\visual studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CristalReport.exe.config
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CristalReport.exe
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CristalReport.pdb
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\EntityFramework.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\MySql.Data.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\EntityFramework.xml
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.csprojResolveAssemblyReference.cache
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.Properties.Resources.resources
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.csproj.GenerateResource.Cache
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.exe
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.pdb
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.Migrations.INICIAL.resources
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\FlashControlV71.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\bin\Debug\stdole.dll
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.Form1.resources
+C:\Users\wero\Documents\Visual Studio 2015\Projects\CristalReport\CristalReport\obj\Debug\CristalReport.Migrations.inicial3.resources
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CristalReport.exe.config
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.exe
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.pdb
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CristalReport.exe
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CristalReport.pdb
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\EntityFramework.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\MySql.Data.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\stdole.dll
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\EntityFramework.xml
+C:\Users\dany_\Desktop\CristalReport\CristalReport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.csprojResolveAssemblyReference.cache
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.Form1.resources
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.Migrations.INICIAL.resources
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.Migrations.inicial3.resources
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.Properties.Resources.resources
+C:\Users\dany_\Desktop\CristalReport\CristalReport\obj\Debug\CristalReport.csproj.GenerateResource.Cache
